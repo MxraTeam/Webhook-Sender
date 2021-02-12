@@ -1,0 +1,15 @@
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.exe
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.deps.json
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.runtimeconfig.json
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.runtimeconfig.dev.json
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.dll
+C:\Users\ardam\source\repos\Webhook\Webhook\bin\Debug\netcoreapp3.1\Webhook.pdb
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.csprojAssemblyReference.cache
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.Form1.resources
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.csproj.GenerateResource.cache
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.AssemblyInfoInputs.cache
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.AssemblyInfo.cs
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.csproj.CoreCompileInputs.cache
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.dll
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.pdb
+C:\Users\ardam\source\repos\Webhook\Webhook\obj\Debug\netcoreapp3.1\Webhook.genruntimeconfig.cache
